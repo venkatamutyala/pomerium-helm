@@ -462,6 +462,10 @@ A full listing of Pomerium's configuration variables can be found on the [config
 
 ## Changelog
 
+### 33.0.3
+
+- Update to v0.21.3 of Pomerium
+
 ### 33.0.0
 
 - `idp.serviceAccount` is removed. Please see the [Upgrade Guide](https://www.pomerium.com/docs/overview/upgrading#since-0200)
